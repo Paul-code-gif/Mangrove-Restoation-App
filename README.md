@@ -1,61 +1,67 @@
-# Mangrove Restoration Monitoring App
+# SpatialNexTech
 
-## Overview
+## Geospatial Intelligence for Smarter Environmental Decisions
 
-The Mangrove Restoration Monitoring App is a web-based Google Earth Engine (GEE) application developed for mapping mangrove ecosystems, detecting changes over time, and identifying suitable restoration priority areas in the Rufiji Delta, Tanzania.
+SpatialNexTech is a geospatial technology initiative focused on developing practical GIS, Remote Sensing, Web GIS, and Earth observation solutions for environmental monitoring, spatial analysis, and decision support.
 
-The application enables users to perform ecosystem analysis interactively using Sentinel-2 satellite imagery without requiring advanced remote sensing expertise.
+## 🚀 What We Do
 
----
+SpatialNexTech combines geospatial science and modern technology to develop solutions such as:
 
-## Features
+- GIS and spatial analysis
+- Remote sensing and Earth observation
+- Web GIS applications
+- Environmental monitoring
+- Land-use and land-cover analysis
+- Natural resource management
+- Disaster and risk mapping
+- Geospatial decision-support systems
+- Google Earth Engine applications
+- Interactive maps and spatial dashboards
+
+## 🌍 Current Project
+
+### Mangrove Restoration Application
+
+This project is a Google Earth Engine-based geospatial application designed to support mangrove assessment and restoration planning.
+
+The application focuses on:
 
 - Mangrove coverage mapping
 - Mangrove change detection
-- Restoration priority area mapping
-- Interactive Area of Interest (AOI) selection
-- Cloud filtering
-- Reference layers for validation
-- Ground truth visualization
-- Google Earth Engine cloud processing
+- Environmental analysis
+- Restoration suitability assessment
+- Satellite-based monitoring
+- Interactive visualization
+- Spatial decision support
 
----
-
-## Study Area
-
-Rufiji Delta, Tanzania
-
----
-
-## Data Used
-
-- Sentinel-2 Surface Reflectance
-- ESA WorldCover
-- SRTM DEM
-- User reference layers
-- Ground truth points
-
----
-
-## Technologies
+## 🛰️ Technologies
 
 - Google Earth Engine
 - JavaScript
-- Remote Sensing
 - GIS
+- Remote Sensing
+- Google Earth Engine Apps
+- GitHub
+- Web GIS
+- Satellite Earth Observation
 
----
+## 🎯 Vision
 
-## Author
+To build accessible geospatial technologies that transform spatial data into useful information for environmental management, planning, and decision-making.
+
+## 👨‍💻 Developer
 
 **Paul Karia**
 
-BSc Geographic Information and Remote Sensing
+GIS & Remote Sensing
 
-Ardhi University
+## 📌 Project Status
+
+This project is actively being developed.
+
+More features, documentation, visualizations, and geospatial applications will be added as SpatialNexTech grows.
 
 ---
 
-## License
-
-This project is for academic and research purposes.
+**SpatialNexTech — Turning spatial data into intelligent decisions.**
